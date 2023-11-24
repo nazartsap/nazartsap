@@ -1,9 +1,22 @@
-### Hi there 👋
+### Hellow there 👋
 
-<!--
-**nazartsap/nazartsap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-Here are some ideas to get you started:
+
+class PythonDeveloper:
+
+    def __init__(self):
+        self.name = "Nazar"
+        self.role = " Python Developer"
+        self.language_spoken = ["zh_RU", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = PythonDeveloper()
+me.say_hi()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
