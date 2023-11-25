@@ -11,12 +11,10 @@ class PythonDeveloper:
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
-
-
 me = PythonDeveloper()
 me.say_hi()
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazartsap&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazartsap&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazartsap&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazartsap&theme=default)
 
